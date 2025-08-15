@@ -31,8 +31,5 @@ This project demonstrates the use of Bootstrap's grid system, components, and ut
 ## 🌐 Live Demo
 [*(Click Here)*](https://amisha-ctrl.github.io/Blog-Page/)
 
-## 📸 Screenshot
-*(Insert screenshot image here)*
-
 ---
 💡 **Note:** This project uses Bootstrap’s CDN links for quick setup — no local installation needed.
