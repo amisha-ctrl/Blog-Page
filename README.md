@@ -29,7 +29,7 @@ This project demonstrates the use of Bootstrap's grid system, components, and ut
 3. No installation required — works directly in any modern browser.
 
 ## 🌐 Live Demo
-[*(Add link here if hosted on GitHub Pages or similar)*](https://amisha-ctrl.github.io/Blog-Page/)
+[*(Click Here)*](https://amisha-ctrl.github.io/Blog-Page/)
 
 ## 📸 Screenshot
 *(Insert screenshot image here)*
